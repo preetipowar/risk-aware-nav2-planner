@@ -13,3 +13,10 @@ Score = Risk + λ|offset|
 2. Obstacle blocking path
 3. Dense obstacle cluster
 4. Left vs right decision
+
+## Demo Videos
+
+Navigation experiments for the risk-aware planner can be viewed here:
+
+Google Drive Folder:
+(https://drive.google.com/drive/folders/1Tlz7hgiJLgKio-HTtbukOiAE_I9ZCi3z?usp=sharing)
