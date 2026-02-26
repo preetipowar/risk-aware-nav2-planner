@@ -1,0 +1,14 @@
+<library path="risk_aware_planner">
+ <class
+   name="risk_aware_planner/RiskAwarePlanner"
+   type="risk_aware_planner::RiskAwarePlanner"
+   base_class_type="nav2_core::GlobalPlanner">
+
+   <description>
+     Risk-aware global planner that evaluates multiple candidate trajectories
+     using costmap inflation values and selects the safest path.
+   </description>
+
+ </class>
+</library>
+
